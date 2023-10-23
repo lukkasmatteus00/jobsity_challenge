@@ -40,7 +40,8 @@ Create test cases for Magento: https://magento.softwaretestingboard.com/ :
 
 
 >2° part:
-Create 
+
+List all bugs that you find based on requirements
 - Find as many bugs as possible on each website.
 - Keep track of the bug life cycle with your Trello board.
 - Show evidence of the bugs. Let us know how critical they are.
@@ -49,12 +50,12 @@ Create
 `You can find here all bugs that I found during the process` https://trello.com/b/jZWkkpJr/jobsity-challenge
 
 >3° part:
- Create automation tests:
 
+Create automation tests:
 - Deliver a good automation suite.
 - The project should be able to run on any computer.
 
-I focused on order and payment to create the suite test, because I did not find the return order to be automated.
+I focused on order and payment features to create the suite test, because I did not find the return order to be automated. 
 
 `Demonstration of the scenario applied in the UI automated test.`
 
@@ -118,6 +119,8 @@ For this challenge, The following technologies were used:
 - Cucumber
 - Cypress
 - Node
+
+It is a cypress project that was implemented in typescript using the Page Object Model Pattern design with gherkin
 ---
 
 ## Run tests

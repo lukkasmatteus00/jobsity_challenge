@@ -56,6 +56,7 @@ Create automation tests:
 - The project should be able to run on any computer.
 
 I focused on order and payment features to create the suite test, because I did not find the return order to be automated. 
+![plot](./folder/jobsity.gif)
 
 `Demonstration of the scenario applied in the UI automated test.`
 
@@ -109,7 +110,6 @@ Feature: Register new accounts
     Then The system will display thanks message for my purchase
 
 ```
-![plot](./folder/jobsity.gif)
 
 ## Used technologies 
 ---
